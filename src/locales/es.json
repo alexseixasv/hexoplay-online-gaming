@@ -1,0 +1,94 @@
+{
+  "header": {
+    "home": "Inicio",
+    "newgames": "Juegos Disponibles",
+    "whoiswinning": "Quién Está Ganando",
+    "blog": "Blog"
+  },
+  "footer": {
+    "contactUs": "Contáctanos",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio",
+    "followUs": "Síguenos",
+    "cta": "Soporte"
+  },
+  "components": {
+    "button": {
+      "signUp": "Regístrate",
+      "discover": "Explorar",
+      "login": "Iniciar Sesión"
+    },
+    "form": {
+      "submit": "Enviar",
+      "cancel": "Cancelar"
+    },
+    "separator": {
+      "text": "La plataforma #1 de Juegos en Línea"
+    },
+    "fakewinners": {
+      "title": "Ganadores Recientes",
+      "subtitle": "¡Mira quién está ganando ahora!",
+      "player": "Nombre",
+      "prize": "Premio",
+      "game": "Juego",
+      "allprizes": "Todos los Premios",
+      "bigprizes": "Premios Más Grandes",
+      "rareprizes": "Premios Raros"
+    }
+  },
+  "homepage": {
+    "titleStart": "Jackpots y",
+    "titleMiddle": "grandes premios",
+    "titleEnd": "todos los días con Hexoplay",
+    "description": "Hexoplay ofrece la mejor experiencia en juegos de alto rendimiento y suerte en línea. Disfruta de una plataforma completa con premios increíbles, juegos emocionantes y una experiencia única para poner a prueba tu suerte y habilidades. ¡Juega ahora y aumenta tus posibilidades de ganar!",
+    "cta": "Juega Ahora",
+    "topgamesTitle": "Descubre los Juegos Más Populares",
+    "topgamesDescription": "Hexoplay es la plataforma de juegos en línea más completa y segura. Con una variedad de juegos y premios increíbles, puedes probar tu suerte y habilidades en cualquier momento y lugar. ¡Juega ahora y descubre por qué Hexoplay es la mejor elección para quienes buscan diversión y grandes premios!"
+  },
+  "betcard": {
+    "description": "Descripción",
+    "minbet": "Apuesta Mínima",
+    "maxbet": "Apuesta Máxima",
+    "maxprize": "Premio Máximo",
+    "winpercent": "Probabilidad de Ganar",
+    "button": "Jugar Ahora"
+  },
+  "modals": {
+    "signup": {
+      "title": "Regístrate Ahora",
+      "description": "¡Regístrate ahora y comienza a jugar!",
+      "username": "Ingresa un nombre de usuario",
+      "email": "Ingresa tu correo electrónico",
+      "password": "Ingresa una contraseña segura",
+      "confirmPassword": "Confirma tu Contraseña",
+      "button": "Registrar",
+      "alreadyRegistered": "¿Ya estás registrado?",
+      "login": "Inicia sesión aquí"
+    }
+  },
+  "login": {
+    "titleStart": "Explora la",
+    "titleMiddle": "mayor plataforma",
+    "titleEnd": "de juegos en línea del mundo.",
+    "description": "¡Inicia sesión ahora y comienza a jugar!",
+    "subtitle": "Accede a tu cuenta",
+    "email": "Ingresa tu correo electrónico",
+    "password": "Ingresa tu contraseña",
+    "remember": "Recuérdame",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "button": "Iniciar Sesión",
+    "noAccount": "¿No tienes una cuenta?",
+    "clickHere": "¡Haz clic aquí!"
+  },
+  "homegame": {
+    "sidemenu": {
+      "home": "Principal",
+      "terms": "Términos de Uso",
+      "privacy": "Política de Privacidad",
+      "faq": "FAQ",
+      "help": "Ayuda",
+      "logout": "Cerrar Sesión",
+      "earrings": "Ganancias"
+    }
+  }
+}

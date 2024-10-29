@@ -1,0 +1,110 @@
+{
+  "header": {
+    "home": "Início",
+    "newgames": "Jogos disponíveis",
+    "whoiswinning": "Quem está ganhando",
+    "blog": "Blog"
+  },
+  "footer": {
+    "contactUs": "Contate-nos",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "followUs": "Siga-nos",
+    "cta": "Suporte"
+  },
+  "components": {
+    "button": {
+      "signUp": "Cadastre-se",
+      "discover": "Explorar",
+      "login": "Entrar"
+    },
+    "form": {
+      "submit": "Enviar",
+      "cancel": "Cancelar"
+    },
+    "separator": {
+      "text": "#1 Plataforma de Jogos Online"
+    },
+    "fakewinners": {
+      "title": "Ganhadores Recentes",
+      "subtitle": "Veja quem está ganhando agora!",
+      "player": "Nome",
+      "prize": "Prêmio",
+      "game": "Jogo",
+      "allprizes": "Todos os ganhos",
+      "bigprizes": "Maiores prêmios",
+      "rareprizes": "Prêmios raros"
+    }
+  },
+  "homepage": {
+    "titleStart": "Jackpots e",
+    "titleMiddle": "grandes ganhos",
+    "titleEnd": "todo dia com a Hexoplay",
+    "description": "Hexoplay oferece a melhor experiência em jogos de alta performance e sorte online. Aproveite uma plataforma completa com prêmios incríveis, jogos emocionantes e uma experiência única para testar sua sorte e habilidades. Jogue agora e aumente suas chances de ganhar!",
+    "cta": "Jogue Agora",
+    "topgamesTitle": "Conheça os jogos mais populares",
+    "topgamesDescription": "Hexoplay é a plataforma de jogos online mais completa e segura. Com uma variedade de jogos e prêmios incríveis, você pode testar sua sorte e habilidades a qualquer hora e em qualquer lugar. Jogue agora e descubra por que Hexoplay é a melhor escolha para quem busca diversão e grandes prêmios!"
+  },
+  "betcard": {
+    "description": "Descrição",
+    "minbet": "Aposta Mínima",
+    "maxbet": "Aposta Máxima",
+    "maxprize": "Prêmio Máximo",
+    "winpercent": "Chance de Ganhar",
+    "button": "Jogar agora"
+  },
+  "modals": {
+    "signup": {
+      "title": "Realize agora seu cadastro",
+      "description": "Cadastre-se agora e comece a jogar!",
+      "username": "Insira um nome de usuário",
+      "email": "Insira seu e-mail",
+      "password": "Insira uma senha segura",
+      "confirmPassword": "Confirme sua Senha",
+      "button": "Cadastrar",
+      "alreadyRegistered": "Já é cadastrado?",
+      "login": "Realize seu login"
+    }
+  },
+  "login": {
+      "titleStart": "Explore a",
+      "titleMiddle": "maior plataforma",
+      "titleEnd": "de jogos online do mundo.",
+      "description": "Entre agora e comece a jogar!",
+      "subtitle": "Acesse sua conta",
+      "email": "Digite seu e-mail",
+      "password": "Digite sua senha",
+      "remember": "Lembrar-me",
+      "forgotPassword": "Esqueceu sua senha?",
+      "button": "Acessar",
+      "noAccount": "Não possui uma conta?",
+      "clickHere": "Clique aqui!"
+  },
+  "homegame": {
+    "sidemenu": {
+      "home": "Home",
+      "terms": "Termos de uso",
+      "privacy": "Política de Privacidade",
+      "faq": "FAQ",
+      "help": "Ajuda",
+      "logout": "Sair",
+      "balance": "Saldo:",
+      "currency": "U$"
+    },
+    "gamepage": {
+      "bonustitle": "Prêmio de boas vindas",
+      "bonusdescription": "Você é elegível para o bônus de ganhos multiplicados x2 para usuários novos em uma aposta mínima de RS200",
+      "dailybonustitle": "Bônus diário",
+      "dailybonusdescription": "Para o primeiro jogo do dia, você tem a chance de ganhar um prêmio extra de RS1000",
+      "dicebannertitle": "Ganhe na Batalha dos Dados: até 50% de chance de lucro em cada aposta!",
+      "dicebannerdescription": "Sinta a emoção de apostar e lucrar! Na Batalha dos Dados, suas chances de ganhar são grandes, e o potencial de lucro, ainda maior. Arrisque-se, faça suas previsões e veja a sorte ao seu lado!",
+      "winpercent": "Chance de Ganhar",
+      "luckynumber": "Número sorteado",
+      "numberdeal": "Aposte no número",
+      "half": "Metade",
+      "double": "Dobro",
+      "lessthan": "Apostar número menor que",
+      "biggerthan": "Apostar em número maior que"
+    }
+  }
+}

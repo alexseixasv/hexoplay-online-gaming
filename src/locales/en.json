@@ -1,0 +1,94 @@
+{
+  "header": {
+    "home": "Home",
+    "newgames": "Available Games",
+    "whoiswinning": "Who's Winning",
+    "blog": "Blog"
+  },
+  "footer": {
+    "contactUs": "Contact Us",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "followUs": "Follow Us",
+    "cta": "Support"
+  },
+  "components": {
+    "button": {
+      "signUp": "Sign Up",
+      "discover": "Discover",
+      "login": "Login"
+    },
+    "form": {
+      "submit": "Submit",
+      "cancel": "Cancel"
+    },
+    "separator": {
+      "text": "#1 Online Gaming Platform"
+    },
+    "fakewinners": {
+      "title": "Recent Winners",
+      "subtitle": "See who’s winning now!",
+      "player": "Name",
+      "prize": "Prize",
+      "game": "Game",
+      "allprizes": "All Wins",
+      "bigprizes": "Biggest Prizes",
+      "rareprizes": "Rare Prizes"
+    }
+  },
+  "homepage": {
+    "titleStart": "Jackpots and",
+    "titleMiddle": "big wins",
+    "titleEnd": "every day with Hexoplay",
+    "description": "Hexoplay offers the ultimate experience in high-performance and luck-based online games. Enjoy a complete platform with incredible prizes, exciting games, and a unique experience to test your luck and skills. Play now and increase your chances of winning!",
+    "cta": "Play Now",
+    "topgamesTitle": "Check Out the Most Popular Games",
+    "topgamesDescription": "Hexoplay is the most complete and secure online gaming platform. With a variety of games and amazing prizes, you can test your luck and skills anytime, anywhere. Play now and discover why Hexoplay is the best choice for those seeking fun and big prizes!"
+  },
+  "betcard": {
+    "description": "Description",
+    "minbet": "Minimum Bet",
+    "maxbet": "Maximum Bet",
+    "maxprize": "Maximum Prize",
+    "winpercent": "Win Chance",
+    "button": "Play Now"
+  },
+  "modals": {
+    "signup": {
+      "title": "Register Now",
+      "description": "Sign up now and start playing!",
+      "username": "Enter a username",
+      "email": "Enter your email",
+      "password": "Enter a secure password",
+      "confirmPassword": "Confirm Your Password",
+      "button": "Register",
+      "alreadyRegistered": "Already registered?",
+      "login": "Login here"
+    }
+  },
+  "login": {
+    "titleStart": "Explore the",
+    "titleMiddle": "largest platform",
+    "titleEnd": "for online gaming in the world.",
+    "description": "Log in now and start playing!",
+    "subtitle": "Access your account",
+    "email": "Enter your email",
+    "password": "Enter your password",
+    "remember": "Remember me",
+    "forgotPassword": "Forgot your password?",
+    "button": "Login",
+    "noAccount": "Don’t have an account?",
+    "clickHere": "Click here!"
+  },
+  "homegame": {
+    "sidemenu": {
+      "home": "Home",
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "faq": "FAQ",
+      "help": "Help",
+      "logout": "Logout",
+      "earrings": "Earnings"
+    }
+  }
+}
