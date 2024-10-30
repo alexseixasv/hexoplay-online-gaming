@@ -2,12 +2,12 @@
   <div v-if="isVisible" class="fixed inset-0 z-50 flex items-center justify-center overflow-y-auto">
     <div class="fixed inset-0 bg-black opacity-50" @click="closeModal"></div>
     <div class="relative p-4 w-full max-w-md max-h-full">
-      <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
-        <div class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
-          <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
+      <div class="relative rounded-lg shadow bg-gray-700">
+        <div class="flex items-center justify-between p-4 md:p-5 border-b rounded-t border-gray-600">
+          <h3 class="text-xl font-semibold text-white">
             {{ $t('modals.signup.title') }}
           </h3>
-          <button type="button" class="text-gray-400 hover:text-gray-900 dark:hover:text-white" @click="closeModal">
+          <button type="button" class="text-gray-400 hover:text-white" @click="closeModal">
             <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4l6 6M4 10l6-6" />
             </svg>
