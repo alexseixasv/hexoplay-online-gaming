@@ -1,6 +1,6 @@
 <template>
   <div class="relative flex items-center space-x-1 md:space-x-0">
-    <button @click="toggleDropdown" class="inline-flex items-center font-medium justify-center px-4 py-2 text-sm text-gray-300 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-white">
+    <button @click="toggleDropdown" class="inline-flex items-center font-medium justify-center px-4 py-2 text-sm text-gray-300 rounded-lg cursor-pointer hover:bg-gray-700 hover:text-white">
       <img :src="currentFlag" alt="Flag" class="h-5 w-5 rounded-full mr-2">
       <span>{{ currentLanguage }}</span>
       <svg class="w-4 h-4 ml-2 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -9,10 +9,10 @@
     </button>
 
     <!-- Dropdown -->
-    <div v-if="dropdownOpen" class="z-50 absolute mt-24 w-full max-w-xs left-0 right-0 mx-auto bg-white divide-y divide-gray-100 rounded-lg shadow dark:bg-gray-700">
+    <div v-if="dropdownOpen" class="z-50 absolute mt-24 w-full max-w-xs left-0 right-0 mx-auto divide-y divide-gray-100 rounded-lg shadow bg-gray-700">
       <ul class="py-2 font-medium">
         <li v-for="(lang, key) in languages" :key="key">
-          <a @click="changeLocale(key)" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white">
+          <a @click="changeLocale(key)" class="block px-4 py-2 text-sm text-gray-400 hover:bg-gray-600 hover:text-white">
             <div class="inline-flex items-center">
               <img :src="lang.flag" class="h-3.5 w-3.5 rounded-full mr-2" alt="Flag">
               <span>{{ lang.name }}</span>
