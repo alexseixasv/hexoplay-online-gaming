@@ -14,7 +14,7 @@
         'translate-x-0': isSidebarOpen,
         '-translate-x-full': !isSidebarOpen,
       }"
-      class="fixed top-0 left-0 z-40 w-64 h-full transition-transform bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700 sm:translate-x-0"
+      class="fixed top-0 left-0 z-40 w-64 h-full transition-transform bg-gray-800 border-r border-gray-700 sm:translate-x-0"
       aria-label="Sidenav"
     >
       <div class="overflow-y-auto py-5 px-3 h-full">
@@ -55,7 +55,7 @@
           <ChangeLocale />
         </div>
       </div>
-      <div class="absolute bottom-0 left-0 p-4 space-x-4 w-full bg-white dark:bg-gray-800 z-20 border-r border-gray-200 dark:border-gray-700">
+      <div class="absolute bottom-0 left-0 p-4 space-x-4 w-full bg-gray-800 z-20 border-r border-gray-700">
         <ul>
           <li class="text-white hover:text-mirage-500 bg-transparent hover:bg-gray-700 text-base font-normal rounded-lg cursor-pointer">
             <a href="#" class="flex items-center p-2 group">
